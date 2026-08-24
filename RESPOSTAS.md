@@ -10,7 +10,7 @@ Dupla (M2 em diante):
 
 **Hash curto do commit que introduziu o erro:**
 
-**Autor:Leonardo (teste)
+**Autor:**
 
 **Data:**
 
